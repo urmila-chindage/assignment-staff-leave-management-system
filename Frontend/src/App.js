@@ -14,10 +14,6 @@ import PageNotFound from './components/PageNotFound';
 import StaffInfo from './components/StaffInfo'
 
 /* Added routes  */
-
-
-
-
 export default function App(){
   return(
     <Router>
